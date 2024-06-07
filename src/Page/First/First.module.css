@@ -1,0 +1,11 @@
+.NavHoverup {
+  transition: transform 0.3s ease-in-out;
+}
+
+.NavHoverup:hover {
+  transform: translateY(-10px);
+}
+
+.bgPageFirst {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Group 1764.png");
+}

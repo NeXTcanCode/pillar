@@ -1,0 +1,19 @@
+.logo {
+  font-family: "Arial", sans-serif; /* Replace with your desired font */
+  font-size: 20px; /* Adjust font size as needed */
+  color: #696969; /* Grey color for the text */
+  letter-spacing: 5px; /* Adjust spacing between letters */
+}
+
+.logo.big_N {
+  font-size: 30px; /* Make the "N" larger */
+  color: #228b22; /* Green color for the "N" */
+  font-size: 30px; /* Make the "N" larger */
+  color: #228b22; /* Green color for the "N" */
+  font-weight: bold; /* Make the "N" bold */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); /* Add a shadow to the "N" */
+}
+
+.bgPageFour {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Mask group-2.png");
+}

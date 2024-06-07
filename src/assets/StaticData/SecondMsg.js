@@ -1,0 +1,8 @@
+const SecondMsg = [
+  "Pilar Outreach Foundation’s mission is to empower underprivileged women and youth, enriching their lives and breaking the barries imposed by social and economic circumstances. Through education, skills training, and support, we strive to create a brighter future for those in need. Join us in our journey of empowerment and make a lasting difference in the lives of marginalized individuals.",
+  "Our Core objective is to champion equity and equality within society through our collective efforts aimed at uplifting and enriching the lives of the underprivileged. By implementing a range of diverse projects, we endeavor to provide standardized services to marginalized individuals, thereby fostering a more inclusive and just society.",
+  "Our noble vision entails the establishment of an egalitarian society where individual from underprivileged backgrounds, women, and youth are nurtured and imbued with the essential resources, support, and opportunities needed to embark upon a transformative journey towards the realization of their fullest potential. Guided by the principal of dignity, we strive to empower these individuals, enabling them to assume positions of leadership and to embrace a life of fulfilment and achievement.",
+  "Our mission is to actively contribute to the advancement and progress of society, with an unwavering commitment to empowering each individual who resonates with our noble cause and embodies the cherished values of love, freedom, sincerity, and justice. Through our endeavors, we strive to foster a profound and lasting impact, nurturing a collective consciousness that embraces compassion, liberty, authencity, and fairness.",
+];
+
+export default SecondMsg;

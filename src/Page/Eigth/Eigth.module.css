@@ -1,0 +1,16 @@
+.bgComment {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Group 1766.png");
+  width: 1519px;
+  height: 574px;
+}
+
+.bgTEST {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Group 1766.png");
+  position: relative;
+  background-position: -120px 0;
+  /* it is not shifting towards left, ask Likhil Sir */
+}
+
+.bgPageEight {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Rectangle 563.png");
+}

@@ -1,0 +1,34 @@
+.hoverEffect {
+  position: relative;
+  overflow: hidden;
+}
+
+.hoverEffect img {
+  transition: transform 0.3s ease;
+}
+
+.hoverEffect:hover img {
+  transform: translateY(-10px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.ProjectActivities {
+  background-image: url("D:\Vikas\Pilar foudation\Pillar_react\public\Pilar Outreach Foundation Images\Pilar Outreach Foundation\Mask group-4.png");
+}
+
+.hoverEffect .readMore {
+  display: none;
+}
+
+.hoverEffect:hover .readMore {
+  display: block;
+}
+
+.ProjectActivities img {
+  border: 10px solid white; /* Add a border with 2px width and color #A24281 */
+  border-radius: 8px; /* Optional: Add border radius for rounded corners */
+}
+
+.bgPageFour {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Mask group-4.png");
+}

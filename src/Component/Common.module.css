@@ -1,0 +1,55 @@
+.bgLine {
+  border: 2px solid #a24281;
+  background-color: #a24281;
+  height: 5px;
+  width: 83px;
+}
+.bgLineBIG {
+  border: 2px solid #a24281;
+  background-color: #a24281;
+  height: 5px;
+  width: 182px;
+}
+
+.bgLineProject {
+  border: 2px solid #a24281;
+  background-color: #a24281;
+  height: 5px;
+  width: 105px;
+}
+
+.bgLineSMALL {
+  border: 2px solid #a24281;
+  background-color: #a24281;
+  height: 5px;
+  width: 31px;
+}
+
+.buttonBg {
+  background-color: #a24281;
+  height: 52px;
+  width: 159px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newsBG {
+  border: 1px solid white;
+  width: 401px;
+  height: 474px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+  position: relative;
+}
+
+/* .achieveBG {
+  border: 2px solid white;
+  padding: 2px;
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.3);
+  position: relative;
+} */
+
+.bgTEST {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Group 1766.png");
+}

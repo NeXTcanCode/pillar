@@ -1,0 +1,110 @@
+.GallerySection {
+  background-image: url("D:\Vikas\Pilar foudation\Pillar_react\public\Pilar Outreach Foundation Images\Pilar Outreach Foundation\Mask group-6.png");
+}
+
+.ImageBackground img {
+  border: 10px solid white; /* Add a border with 2px width and color #A24281 */
+  border-radius: 8px; /* Optional: Add border radius for rounded corners */
+}
+
+.GallerySection {
+  position: relative;
+}
+
+.imageContainer {
+  position: relative;
+}
+
+.imageContainer img {
+  border: 2px solid #a24281;
+  border-radius: 8px;
+}
+
+.imageContainer .magnificationImage {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  width: 50px; /* Adjust size as needed */
+  height: 50px; /* Adjust size as needed */
+}
+
+.imageContainer:hover .magnificationImage {
+  display: block;
+}
+
+.GallerySection {
+  /* Add your existing styles */
+}
+
+.imageContainer {
+  position: relative;
+  cursor: pointer;
+}
+
+.imageWrapper {
+  position: relative;
+}
+
+.galleryImage {
+  display: block;
+  border: 2px solid #ccc; /* Add a border around the image */
+}
+
+.magnificationIcon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  width: 50px; /* Adjust size as needed */
+  height: 50px; /* Adjust size as needed */
+}
+
+.imageContainer:hover .magnificationIcon {
+  display: block;
+}
+
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modalContent {
+  position: relative;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  outline: none;
+}
+
+.enlargedImage {
+  max-width: 90vw;
+  max-height: 80vh;
+}
+
+.closeButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.bgPageSeven {
+  background-image: url("public/Pilar Outreach Foundation Images/Pilar Outreach Foundation/Mask group-5.png");
+}
